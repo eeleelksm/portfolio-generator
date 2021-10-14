@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "module 9",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeleelksm/portfolio-generator.git"
+  },
+  "keywords": [
+    "module9"
+  ],
+  "author": "Keshia-Lee Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eeleelksm/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/eeleelksm/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
